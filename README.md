@@ -1,9 +1,9 @@
-# 🌐 Firzi.dev – Modern Portfolio Template
+# 🌐 DcoXer.dev – Modern Portfolio Template
 
 ![Preview](https://via.placeholder.com/1000x500?text=Firzi.dev+Portfolio+Template)
 
 ## ✨ Deskripsi
-**Firzi.dev** adalah template website portfolio modern dengan desain elegan, animasi halus, dan performa cepat.  
+**DcoXer.dev** adalah template website portfolio modern dengan desain elegan, animasi halus, dan performa cepat.  
 Dibangun menggunakan **Laravel 10**, **Tailwind CSS**, dan animasi premium yang interaktif.
 
 ---
